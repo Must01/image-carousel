@@ -1,6 +1,7 @@
 # React Image Carousel
 
 A lightweight, responsive, and fully typed Image Carousel component built with **React**, **TypeScript**, and **Tailwind CSS**.
+![20251231-1852-35 9442911](https://github.com/user-attachments/assets/03d82197-08b7-4c81-a314-8b2ed18560d4)
 
 ## 🌟 Features
 
@@ -91,10 +92,4 @@ This component uses **Tailwind CSS** classes.
 
 - Website: [mustaphabouddahr.netlify.app](https://mustaphabouddahr.netlify.app)
 
----
-
 _Made with 💖_
-
-```
-
-```
